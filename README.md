@@ -59,3 +59,7 @@ La funcionalidad del servidor puede probarse en las siguientes plataformas:
 ![alt text](image.png)
 3. **Agente MCP**: Conecta un agente MCP para probar las herramientas en un entorno real.
 ![alt text](image-1.png)
+
+## Mas inspiracion
+
+- [mcp.co](https://open-meteo.com/en/docs?current=temperature_2m,precipitation,is_day,rain)

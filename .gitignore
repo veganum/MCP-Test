@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Dependencias de bundlers y caches
+build/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs y sistemas operativos
+.vscode/
+
+# Test coverage
+coverage/
